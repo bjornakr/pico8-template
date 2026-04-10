@@ -1,0 +1,27 @@
+# PICO-8 exports
+*.p8.png
+*.js
+*.html
+game.bin/
+
+# Editor
+.vscode/
+.fastembed_cache/
+
+# Debug
+*.p8l
+
+# OS
+.DS_Store
+
+# Python
+__pycache__
+
+# Rust
+tools/debugview/target/
+
+# Claude
+.claude/settings.local.json
+
+# Lua LS
+.luarc.json
